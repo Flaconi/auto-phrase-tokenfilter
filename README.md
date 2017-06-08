@@ -14,4 +14,4 @@ suffix terms in a phrase are synonymous with the phrase, but where other parts o
 not. This enables searching within the phrase to occur selectively, rather than randomly.
 
 ##Overview
-Forked from https://github.com/LucidWorks/auto-phrase-tokenfilter and updated to work for Solr5. The usage of it is same as explained in the forked project. 
+Forked from https://github.com/LucidWorks/auto-phrase-tokenfilter and updated to work for Solr6. The usage of it is same as explained in the forked project. 
